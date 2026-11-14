@@ -1,0 +1,22 @@
+warning: in the working copy of 'my-profile/index.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/my-profile/index.html b/my-profile/index.html[m
+[1mindex 6e68986..998d02b 100644[m
+[1m--- a/my-profile/index.html[m
+[1m+++ b/my-profile/index.html[m
+[36m@@ -4,6 +4,7 @@[m
+   <meta charset="UTF-8">[m
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+   <title>หน้าแนะนำตัว</title>[m
+[32m+[m[32m  <link rel="stylesheet"href="style.css">[m
+ </head>[m
+ <body>[m
+   <main class="card">[m
+[1mdiff --git a/tyty.md b/tyty.md[m
+[1mindex 18ca30c..a334868 100644[m
+[1m--- a/tyty.md[m
+[1m+++ b/tyty.md[m
+[36m@@ -1 +1 @@[m
+[31m-rgtfdgdg[m
+\ No newline at end of file[m
+[32m+[m[32mcomon baby[m
+\ No newline at end of file[m
